@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bindr.NET4.MVC", "bindr.NET
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bindr.NET4.WebAPI", "bindr.NET4.WebAPI\bindr.NET4.WebAPI.csproj", "{21ABFBC2-AFF9-4726-9A73-D5919BDE80ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bindr.NET4.Tests", "bindr.NET4.Tests\bindr.NET4.Tests.csproj", "{69A75D86-4283-4066-A179-9F60F9547A32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{21ABFBC2-AFF9-4726-9A73-D5919BDE80ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21ABFBC2-AFF9-4726-9A73-D5919BDE80ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21ABFBC2-AFF9-4726-9A73-D5919BDE80ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69A75D86-4283-4066-A179-9F60F9547A32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69A75D86-4283-4066-A179-9F60F9547A32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69A75D86-4283-4066-A179-9F60F9547A32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69A75D86-4283-4066-A179-9F60F9547A32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
