@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bindr.NET4", "bindr.NET4\bindr.NET4.csproj", "{268C95D5-57BB-413A-8D64-6D3BE966E5BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bindr.NET4.MVC", "bindr.NET4.MVC\bindr.NET4.MVC.csproj", "{2F1D5D1E-E342-4C48-9882-77638645A4BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bindr.NET4.WebAPI", "bindr.NET4.WebAPI\bindr.NET4.WebAPI.csproj", "{21ABFBC2-AFF9-4726-9A73-D5919BDE80ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{268C95D5-57BB-413A-8D64-6D3BE966E5BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{268C95D5-57BB-413A-8D64-6D3BE966E5BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{268C95D5-57BB-413A-8D64-6D3BE966E5BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{268C95D5-57BB-413A-8D64-6D3BE966E5BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F1D5D1E-E342-4C48-9882-77638645A4BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F1D5D1E-E342-4C48-9882-77638645A4BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F1D5D1E-E342-4C48-9882-77638645A4BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F1D5D1E-E342-4C48-9882-77638645A4BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21ABFBC2-AFF9-4726-9A73-D5919BDE80ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21ABFBC2-AFF9-4726-9A73-D5919BDE80ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21ABFBC2-AFF9-4726-9A73-D5919BDE80ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21ABFBC2-AFF9-4726-9A73-D5919BDE80ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
